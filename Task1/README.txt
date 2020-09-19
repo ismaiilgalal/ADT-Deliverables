@@ -1,0 +1,1 @@
+The equation plotter is functionally correct. However, the plot button is not functional, and the plot result is displayed upon closing the GUI window, which is an error I was unfortunately unable to fix before the deadline.
