@@ -292,8 +292,6 @@ while 1:
 # window.show()
 # app.exec_()
 
-# window.show()
-# app.exec_()
 
 # while(1):
 #     selectedtran = transistorlist.currentText()
